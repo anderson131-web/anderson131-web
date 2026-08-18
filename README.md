@@ -35,7 +35,7 @@ the odd overly ambitious side project.
 
 ## Featured Projects
 
-**[Novel Finder Agent](https://github.com/anderson131-web/Novel-Finder-Agent)**
+**[Novel Finder Agent](https://github.com/anderson131-web/novel-finder-agent)**
 Finds books, manga, manhwa, manhua, and light/web novels matching a
 plain-language description ("action manhwa with cultivation and martial
 arts") using Open Library, Google Books, and AniList's public APIs —
