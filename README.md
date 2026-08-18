@@ -23,6 +23,14 @@ the odd overly ambitious side project.
 - Graduate of Viswajyothi College of Engineering and Technology
 - Previously technical lead for Hack The Box VJCET and TEDx VJCET
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anderson131-web/anderson131-web/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anderson131-web/anderson131-web/output/snake-light.svg" />
+    <img alt="A snake animation eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/anderson131-web/anderson131-web/output/snake-dark.svg" />
+  </picture>
+</div>
+
 ---
 
 ## Featured Projects
