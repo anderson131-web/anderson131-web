@@ -36,6 +36,14 @@ dashboard, and around 50 tests — including a real headless-browser test of
 the form-filling logic.
 `Node.js` · `SQLite` · `Playwright` · `Zod`
 
+**[TaskFlow API](https://github.com/anderson131-web/taskflow-api)**
+A task-management REST API with real authentication: JWT-based login,
+bcrypt password hashing, and per-user data isolation (one user genuinely
+can't read or modify another's tasks). Filtering, pagination, Docker
+setup, and 18 tests covering the auth flow and the ownership boundary
+specifically, run in CI on every push.
+`FastAPI` · `SQLAlchemy` · `Pydantic` · `Docker` · `pytest`
+
 **[Sign Language Translator](https://github.com/anderson131-web/sign-language-translator)**
 Real-time American Sign Language recognition from a webcam feed —
 MediaPipe hand-landmark tracking into a trained classifier, with
