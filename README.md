@@ -1,47 +1,58 @@
-### Hi, I'm Anderson Abraham 👋
+<div align="center">
 
-Full-stack software engineer building AI-assisted applications, computer
-vision projects, and polished web experiences — currently a **Business
-Associate, AI & Software Engineering at Quinnox Consultancy Services**,
-based in Naperville, IL.
+# Anderson Abraham
 
-- 🔭 Independently building an AI Product Assessment Platform (React,
-  FastAPI, MySQL) for internal tooling at Quinnox
-- 🏆 Best Paper Award for applied accessibility research, presented at a
+<a href="https://www.anderson-abraham.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%2F+Computer+Vision+Builder;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+</a>
+
+[![Website](https://img.shields.io/badge/Website-anderson--abraham.com-3B82F6?style=flat-square)](https://www.anderson-abraham.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anderson--abraham-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-abraham)
+[![Email](https://img.shields.io/badge/Email-andersonabraham2131%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andersonabraham2131@gmail.com)
+
+</div>
+
+Software engineer based in Naperville, IL, currently working as a
+**Business Associate, AI & Software Engineering at Quinnox Consultancy
+Services**, where I'm building an AI product-assessment platform from
+scratch. Outside of that I build computer vision projects, web apps, and
+the odd overly ambitious side project.
+
+- Best Paper Award for applied accessibility research, presented at a
   national conference organized by the Government of Kerala
-- 🎓 Viswajyothi College of Engineering and Technology
-- 🌐 [anderson-abraham.com](https://www.anderson-abraham.com/) · [LinkedIn](https://linkedin.com/in/anderson-abraham)
+- Graduate of Viswajyothi College of Engineering and Technology
+- Previously technical lead for Hack The Box VJCET and TEDx VJCET
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 **[Autonomous Job Search Agent](https://github.com/anderson131-web/autonomous-job-search-agent)**
-A 24/7 autonomous job-search and application pipeline: schema-validated
-scoring against a candidate profile, company research, an
-apply/skip/human-review decision engine with recorded reasoning, guarded
-auto-submit restricted to a safe allowlist of ATS platforms, a SQLite state
-machine, and an interactive dashboard. ~50 automated tests, including real
-headless-browser coverage of the form-filling logic.
+A 24/7 job-search and application pipeline: scores roles against a real
+candidate profile, researches companies, and routes every job to apply /
+skip / human-review with a recorded reason. Guarded auto-submit limited to
+a safe allowlist of ATS platforms, a SQLite state machine, an interactive
+dashboard, and around 50 tests — including a real headless-browser test of
+the form-filling logic.
 `Node.js` · `SQLite` · `Playwright` · `Zod`
 
 **[Sign Language Translator](https://github.com/anderson131-web/sign-language-translator)**
 Real-time American Sign Language recognition from a webcam feed —
 MediaPipe hand-landmark tracking into a trained classifier, with
-text-to-speech and multi-language translation (10 languages, online +
-offline). Built with a 3-person team; later extended into a wearable AR
-accessibility prototype.
+text-to-speech and translation into 10 languages, online or fully offline.
+Built with a 3-person team; later extended into a wearable AR accessibility
+prototype.
 `Python` · `OpenCV` · `MediaPipe` · `scikit-learn`
 
 **[Portfolio Website](https://www.anderson-abraham.com/)**
-This profile's own site — an animated, scroll-driven portfolio built with
-React, Three.js/React Three Fiber, Framer Motion, and GSAP, including a
-3D hero scene and an interactive game section.
+The site this profile links to — an animated, scroll-driven portfolio
+built with React, Three.js/React Three Fiber, Framer Motion, and GSAP,
+with a 3D hero scene and an interactive game section.
 `React` · `Vite` · `Three.js` · `Tailwind CSS` · `Framer Motion`
 
 ---
 
-### 🛠️ Skills
+## Skills
 
 **Languages** — Python · JavaScript · TypeScript · SQL · Java · C
 **AI / ML** — Machine Learning Pipelines · NLP · Computer Vision · Model Evaluation · TensorFlow · Keras
@@ -51,14 +62,21 @@ React, Three.js/React Three Fiber, Framer Motion, and GSAP, including a
 
 ---
 
-### 🧭 Leadership & Accomplishments
+## Leadership & Other Work
 
-- **Technical Lead**, Hack The Box VJCET Chapter — ethical hacking
-  workshops and CTFs
-- **Technical Lead**, TEDx VJCET
-- Built an embedded **obstacle detection and alert system** (sensor
-  fusion + Python control layer) for mobility-assistance applications
-- Extended the sign-language project into **AURA — Augmented Utility for
-  Responsive Accessibility**, a wearable AR prototype on Raspberry Pi
+- Technical Lead, Hack The Box VJCET Chapter — ethical hacking workshops
+  and CTFs
+- Technical Lead, TEDx VJCET
+- Built an embedded obstacle detection and alert system (sensor fusion +
+  a Python control layer) for mobility-assistance applications
+- Extended the sign-language project into AURA — Augmented Utility for
+  Responsive Accessibility, a wearable AR prototype on Raspberry Pi
 
-More on all of the above (with photos/demos) at [anderson-abraham.com](https://www.anderson-abraham.com/).
+More on all of the above, with photos and demos, at
+[anderson-abraham.com](https://www.anderson-abraham.com/).
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson131-web&show_icons=true&hide_border=true&theme=default&hide_title=true)
+
+</div>
