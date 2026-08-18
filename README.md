@@ -37,13 +37,13 @@ the odd overly ambitious side project.
 
 **[Novel Finder Agent](https://github.com/anderson131-web/Novel-Finder-Agent)**
 Finds books, manga, manhwa, manhua, and light/web novels matching a
-plain-language description ("manhwa isekai reincarnation revenge") using
-Open Library, Google Books, and AniList's public APIs — three different
-query strategies unified into one scored, deduplicated result set (0-100,
-with the specific genre/trope matches reported alongside the score). Has
-both a CLI and a small web UI with cover art and clickable search
-history. Zero npm dependencies, SQLite-backed history, 31 tests run
-against the real APIs.
+plain-language description ("action manhwa with cultivation and martial
+arts") using Open Library, Google Books, and AniList's public APIs —
+three different query strategies unified into one scored, deduplicated
+result set (0-100, with the specific genre/trope matches reported
+alongside the score). Has both a CLI and a small web UI with cover art
+and clickable search history. Zero npm dependencies, SQLite-backed
+history, 39 tests run against the real APIs.
 `Node.js` · `SQLite` · `Open Library API` · `Google Books API` · `AniList API`
 
 **[Autonomous Job Search Agent](https://github.com/anderson131-web/autonomous-job-search-agent)**
