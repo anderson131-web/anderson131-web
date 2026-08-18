@@ -82,9 +82,3 @@ with a 3D hero scene and an interactive game section.
 
 More on all of the above, with photos and demos, at
 [anderson-abraham.com](https://www.anderson-abraham.com/).
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson131-web&show_icons=true&hide_border=true&theme=default&hide_title=true)
-
-</div>
