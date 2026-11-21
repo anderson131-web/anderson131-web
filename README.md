@@ -13,7 +13,7 @@
 
 </div>
 
-### 👋 About me
+### About me
 
 Software engineer based in Naperville, IL, currently working as a
 **Business Associate, AI & Software Engineering at Quinnox Consultancy
@@ -21,15 +21,15 @@ Services**, where I'm building an AI product-assessment platform from
 scratch. Outside of that I build computer vision projects, web apps, and
 the odd overly ambitious side project.
 
-- 🏆 Best Paper Award for applied accessibility research, presented at a
+- Best Paper Award for applied accessibility research, presented at a
   national conference organized by the Government of Kerala
-- 🎓 Graduate of Viswajyothi College of Engineering and Technology
-- 🛡️ Previously technical lead for Hack The Box VJCET and TEDx VJCET
-- 🔭 Currently building **[AgentLite](https://github.com/anderson131-web/AgentLite)**: multi-agent automation on small, local LLMs
+- Graduate of Viswajyothi College of Engineering and Technology
+- Previously technical lead for Hack The Box VJCET and TEDx VJCET
+- Currently building **[AgentLite](https://github.com/anderson131-web/AgentLite)**: multi-agent automation on small, local LLMs
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 <sub>Click a card to open the repo. Expand a project below for the full story.</sub>
 
@@ -45,7 +45,7 @@ the odd overly ambitious side project.
 </table>
 
 <details>
-<summary><b>🤖 AgentLite</b></summary>
+<summary><b>AgentLite</b></summary>
 <br>
 
 A multi-agent task automation system that runs on small, locally hosted LLMs
@@ -62,7 +62,7 @@ streaming, an 18-task eval harness, and optional Gemini / Azure OpenAI providers
 
 </details>
 <details>
-<summary><b>📚 Novel Finder Agent</b></summary>
+<summary><b>Novel Finder Agent</b></summary>
 <br>
 
 Finds books, manga, manhwa, manhua, and light/web novels matching a
@@ -79,7 +79,7 @@ history, 39 tests run against the real APIs.
 
 </details>
 <details>
-<summary><b>🧭 Autonomous Job Search Agent</b></summary>
+<summary><b>Autonomous Job Search Agent</b></summary>
 <br>
 
 A 24/7 job-search and application pipeline: scores roles against a real
@@ -94,7 +94,7 @@ the form-filling logic.
 
 </details>
 <details>
-<summary><b>✅ TaskFlow API</b></summary>
+<summary><b>TaskFlow API</b></summary>
 <br>
 
 A task-management REST API with real authentication: JWT-based login,
@@ -108,7 +108,7 @@ specifically, run in CI on every push.
 
 </details>
 <details>
-<summary><b>🤟 Sign Language Translator</b></summary>
+<summary><b>Sign Language Translator</b></summary>
 <br>
 
 Real-time American Sign Language recognition from a webcam feed —
@@ -122,7 +122,7 @@ prototype.
 
 </details>
 <details>
-<summary><b>🌐 Portfolio Website</b></summary>
+<summary><b>Portfolio Website</b></summary>
 <br>
 
 The site this profile links to — an animated, scroll-driven portfolio
@@ -136,7 +136,7 @@ with a 3D hero scene and an interactive game section.
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 <div align="center">
 
@@ -160,7 +160,7 @@ with a 3D hero scene and an interactive game section.
 
 ---
 
-### 📊 GitHub activity
+### GitHub activity
 
 <div align="center">
 
@@ -182,7 +182,7 @@ with a 3D hero scene and an interactive game section.
 ---
 
 <details>
-<summary><b>🎤 Leadership & other work</b></summary>
+<summary><b>Leadership & other work</b></summary>
 <br>
 
 - Technical Lead, Hack The Box VJCET Chapter: ethical hacking workshops and CTFs
