@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=Anderson%20Abraham&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Software%20Engineer%20%C2%B7%20Naperville%2C%20IL&descAlignY=58&descSize=18" alt="Anderson Abraham" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=Anderson%20Abraham&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20and%20Software%20Engineer%20%C2%B7%20Naperville%2C%20IL&descAlignY=58&descSize=18" alt="Anderson Abraham" width="100%" />
 
 <a href="https://www.anderson-abraham.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+LLM+agents+that+run+locally;AI+%2F+Computer+Vision+Builder;Turning+ideas+into+shipped+products" alt="Typing SVG" />
