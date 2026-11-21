@@ -35,6 +35,17 @@ the odd overly ambitious side project.
 
 ## Featured Projects
 
+**[AgentLite](https://github.com/anderson131-web/AgentLite)**
+A multi-agent task automation system that runs on small, locally hosted LLMs
+(3B–7B models on a 4 GB GPU). A planner, executor, and reviewer coordinate
+over a LangGraph state machine, using tools for web search, page fetching,
+read-only SQL, a sandboxed workspace, and RAG over my own documents, and every
+step is recorded in a live trace. The flagship flow is a Job Research agent
+that compares a posting against a resume and drafts talking points and a cover
+letter, but never applies. Includes a FastAPI + React dashboard with SSE
+streaming, an 18-task eval harness, and optional Gemini / Azure OpenAI providers.
+`Python` · `LangGraph` · `Ollama` · `ChromaDB` · `FastAPI` · `React` · `Docker`
+
 **[Novel Finder Agent](https://github.com/anderson131-web/novel-finder-agent)**
 Finds books, manga, manhwa, manhua, and light/web novels matching a
 plain-language description ("action manhwa with cultivation and martial
@@ -82,9 +93,9 @@ with a 3D hero scene and an interactive game section.
 ## Skills
 
 **Languages** — Python · JavaScript · TypeScript · SQL · Java · C
-**AI / ML** — Machine Learning Pipelines · NLP · Computer Vision · Model Evaluation · TensorFlow · Keras
-**Frameworks & Tools** — FastAPI · React · Node.js · Tailwind CSS · Vite · Git · CI/CD
-**Databases** — MySQL · PostgreSQL
+**AI / ML** — Machine Learning Pipelines · NLP · Computer Vision · Model Evaluation · LLM Agents · RAG · LangGraph · LangChain · Ollama · TensorFlow · Keras
+**Frameworks & Tools** — FastAPI · React · Node.js · Tailwind CSS · Vite · Docker · Git · CI/CD
+**Databases** — MySQL · PostgreSQL · SQLite · ChromaDB
 **Cloud** — Azure · Azure OpenAI
 
 ---
